@@ -30,7 +30,7 @@ dependencies:
 - Import the package in your code:
 
 ```dart
-import 'package:video_editor/video_editor.dart';
+import 'package:video_editor_pits/video_editor.dart';
 ```
 
 ## 📸 Screenshots
